@@ -1,0 +1,13 @@
+{
+  "database": {
+    "host": "127.0.0.1",
+    "user": "dan",
+    "password": "secretpassword",
+    "database": "axiom",
+    "charset": "utf8mb4"
+  },
+  "llm": {
+    "server_url": "http://127.0.0.1:8080/v1/chat/completions",
+    "model": "local-model"
+  }
+}
